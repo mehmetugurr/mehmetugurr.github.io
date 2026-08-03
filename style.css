@@ -1309,3 +1309,5 @@ left:150%;
 .social-card.discord:hover::after {
     right: 0;
 }
+.social-card.discord { background: red; }
+.social-card.whatsapp { background: green; }
