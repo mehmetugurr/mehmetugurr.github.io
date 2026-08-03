@@ -1309,22 +1309,3 @@ left:150%;
 .social-card.discord:hover::after {
     right: 0;
 }
-.social-card.discord::after {
-    content: "TEST";
-    position: absolute;
-    right: 0;
-    top: 0;
-    background: red;
-    color: white;
-    padding: 10px;
-}
-
-.social-card.whatsapp::before {
-    content: "TEST";
-    position: absolute;
-    left: 0;
-    top: 0;
-    background: green;
-    color: white;
-    padding: 10px;
-}
