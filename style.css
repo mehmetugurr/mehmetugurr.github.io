@@ -1205,3 +1205,20 @@ transition:.8s;
 left:150%;
 
 }
+.social-card.discord {
+    border: 1px solid #5865F2;
+}
+
+.social-card.discord:hover {
+    background: #5865F2;
+    color: white;
+}
+
+.social-card.whatsapp {
+    border: 1px solid #25D366;
+}
+
+.social-card.whatsapp:hover {
+    background: #25D366;
+    color: white;
+}
